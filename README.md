@@ -30,8 +30,10 @@ This application is portable. Decompress Retrobeat-Windows-x64.zip where you wan
 .: How to use::.
 
 Space = Play/stop
+
 Reverse sample = Right click on the sample wav and activate reverse
-Individual step volume and panoramic adjustment  = Right click on the step to access knobs.
+
+Individual step volume and panoramic adjustment = Right click on the step to access knobs.
 
 .::Licence::.
 
